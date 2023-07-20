@@ -16,6 +16,7 @@ OrderItem é repetido o price: Double para manter um histórico do preço que fo
 =======================================================================
 
 Execução do programa:
+
 O programa vai iniciar com os dados do cliente “Enter cliente data:” em seguida preencher com Name, Email e Birth date, lembrando que esses dados estão no diagrama na classe “Client”. 
 Name:
 Email:
