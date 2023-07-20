@@ -13,7 +13,7 @@ Da mesma forma que o item de pedido tem um produto, ele tem uma referência para
 Uma observação, no diagrama não foi preenchido o ID, o código de cada entidade, porque isso é só um exemplo para implementar mais rápido em memória. Quando for implementar essa versão no banco de dados, então vai ser preenchido o ID em todas entidades.
 OrderItem é repetido o price: Double para manter um histórico do preço que foi vendido nessa época, se amanhã o preço do produto aumentar, muda o preço do produto mas mantém o histórico do item de pedido “OrderItem”.
 
-==========================================================================================
+=======================================================================
 
 Execução do programa:
 O programa vai iniciar com os dados do cliente “Enter cliente data:” em seguida preencher com Name, Email e Birth date, lembrando que esses dados estão no diagrama na classe “Client”. 
