@@ -40,7 +40,7 @@ Logo em seguida o programa vai perguntar o nome do produto, preço do produto e 
 
 Product name: 
 
-Product Price 
+Product Price:
 
 Quantity: 
 
@@ -49,6 +49,6 @@ Order Moment: (momento do pedido DD/MM/YYYY + Horário)
 
 Order status: 
 
-Cliente (Nome, data de nascimento, email)
+Cliente: (Nome, data de nascimento, email)
 
 Order items: (Uma lista com os items preenchido).
